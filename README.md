@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abaker93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS
+- 📖 I know CSS like the back of my hand, HTML, Javascript, PHP, and SQL
+- 🌱 I’m currently learning ReactJS, Node.js, Google Docs API, Area120 Tables (<-- THIS ONE IS REALLY COOL!!)
 - 📫 How to reach me: AnnaBaker.design
 
 <!---
